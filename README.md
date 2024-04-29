@@ -4,4 +4,5 @@
 
 <br>
 <h3>Yuklab olish</h3>
-!(https://github.com/samandarmaxsutov/Amaliy-Topshiriq/archive/refs/heads/master.zip)
+<a href="https://github.com/samandarmaxsutov/Amaliy-Topshiriq/archive/refs/heads/master.zip"> click here </a>
+
